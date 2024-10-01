@@ -1,6 +1,6 @@
 ﻿namespace ParkingSystemConsoleApp
 {
-    internal class Program
+    public class Program
     {
         private static ParkingLot? parkingLot;
 
